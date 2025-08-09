@@ -1,4 +1,5 @@
-# Shor-RSA-Demo
+# Shor vs RSA (2025) — Minimal, Runnable Demo
+
 **Author:** Syed Ali Turab
 **Original talk (2019):** https://www.youtube.com/watch?v=guGM1l7KneM
 
